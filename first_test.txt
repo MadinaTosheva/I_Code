@@ -1,5 +1,8 @@
-ID
-Summary
-Preconditions
-Steps
-Expected result
+ID: 001
+Summary: Прверить кликабельность всех разделов в  header
+Preconditions: Открыть сайт https://zara-shoki.github.io/wedding/
+Steps:
+1.  Кликнуть на раздел "Главная"                    Expected result Отображается раздел "Главная"
+2. Кликнуть на раздел "Свадебные платья"            Expected result Отображается раздел "Свадебные платья"
+3. Кликнуть на раздел "Контакты"                    Expected result Отображается раздел "Контакты"
+
